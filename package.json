@@ -1,0 +1,21 @@
+{
+  "name": "raymond-mawina-469-intro-to-redux-for-home-automation-javascript",
+  "version": "1.0.0",
+  "description": "Intro to Redux for home automation: the basics (469)\r For raw project instructions see: http://syllabus.africacode.net/projects/redux-intro/part-1/",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Raymond-Mawina-469-intro-to-redux-for-home-automation-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Raymond-Mawina-469-intro-to-redux-for-home-automation-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Raymond-Mawina-469-intro-to-redux-for-home-automation-javascript#readme",
+  "type": "module",
+  "dependencies": {
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.2"
+  }
+}

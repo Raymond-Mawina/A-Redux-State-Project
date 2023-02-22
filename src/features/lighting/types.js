@@ -1,0 +1,4 @@
+export const types = {
+  LIGHTING_SWITCHON: "LIGHTING_SWITCHON",
+  DIM_LIGHTS: "DIM_LIGHTS",
+};
